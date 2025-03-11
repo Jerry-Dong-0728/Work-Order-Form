@@ -1,0 +1,17 @@
+
+
+.nav-list{
+    display: flex;
+}
+.nav-item{
+    margin: 30px;
+}
+
+.navbar{
+    background-color: lightskyblue;
+    display: flex;
+}
+.Wrapper{
+    width:940px;
+    margin: 0 auto;
+}
